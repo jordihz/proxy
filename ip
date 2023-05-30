@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,EUROSPORT
+#EXTINF:-1 ,VAMOS55
 http://awsc.dynu.net:49155/ace/getstream?id=0e18315b703248bb01eab6b9d3f0cb2cd893601f
-#EXTINF:-1 ,VAMOS
+#EXTINF:-1 ,VAMOS75
 http://awsc.dynu.net:49175/ace/getstream?id=0e18315b703248bb01eab6b9d3f0cb2cd893601f
