@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 logo="https://cedominombre.com/wp-content/uploads/Como-utilizar-AceStream.jpg" tvg-id="f3190d44579b318062d25c19505dcad5" tvg-chno="200",Eurosport
+http://awsc.dynu.net:49175/ace/getstream?id=0e18315b703248bb01eab6b9d3f0cb2cd893601f
