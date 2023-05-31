@@ -1,5 +1,5 @@
 #https://acortar.link/iptv185
 #EXTM3U
-#EXTINF:-1 ,EUROSPORT
+#EXTINF:-1 ,final
 http://awsc.dynu.net:49185/ace/getstream?id=2bac25f323be1de8208d6554337c2c8256bc32bc
 
